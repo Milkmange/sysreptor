@@ -19,7 +19,9 @@ ENABLED_PLUGINS="jira"
 ```
 
 ## Configuration
-After enabling the plugin, configure your Jira connection in the SysReptor admin interface under **Plugins** → **Jira Export Plugin**:
+After enabling the plugin, configure your Jira connection in the SysReptor settings.
+
+Jira REST API version 3 is required. The Jira Cloud platform REST API is supported.
 
 1. **Jira URL**: Base URL of your Jira instance (e.g., `https://your-company.atlassian.net`)
 2. **Jira Username**: Username for authentication (usually your email for Jira Cloud)
