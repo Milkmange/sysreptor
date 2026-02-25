@@ -1,15 +1,15 @@
 # Changelog
 
-## Upcoming
+## v2026.12 - 2026-02-25
 * Allow configuring filenames of PDF reports (https://docs.sysreptor.com/designer/filenames/)
 * Disable browsable API by default
 * Fix comment update error when list item gets deleted
 * Markdown editor: Fix SVGs not rendered in math preview
 * Add design for HTB CWPE certification
 * Enable virtual scrolling in notes tree to improve performance with large number of notes
-* Plugin `jira`: Export findings to Jira issues
-* Plugin `rendersections`: Render single sections to PDF
-* Allow importing OWASP ZAP scans as findings
+* Plugin `jira`: Export findings to Jira issues (https://github.com/Syslifters/sysreptor/tree/main/plugins/jira#readme)
+* Plugin `rendersections`: Render single sections to PDF (https://github.com/Syslifters/sysreptor/tree/main/plugins/rendersections#readme)
+* Plugin `scanimport`: Allow importing OWASP ZAP scans as findings
 
 
 ## v2026.4 - 2026-01-23
